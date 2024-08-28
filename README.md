@@ -30,7 +30,7 @@ The download links for the videos are as follows:
 
 # Install:
 git clone https://github.com/QualityAssessment/Efficiant-DOVER-Mobile.git<br />
-cd Efficient-DOVER<br />
+cd Efficient-DOVER/DOVER<br />
 pip install -e .<br />
 mkdir pretrained_weights<br />
 cd pretrained_weights<br />
@@ -38,6 +38,8 @@ wget https://github.com/QualityAssessment/DOVER/releases/download/v0.5.0/DOVER-M
 cd ..
 
 # Training: Pruned DOVER-Mobile models
+cp all python and yml files to DOVER<br />
+cd DOVER<br />
 Structured pruning:<br />
   python transfer_learning_structured.py -t <dataset_name> -o dover-mobile.yml<br />
 Unstructured pruning:<br />
