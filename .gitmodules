@@ -1,0 +1,3 @@
+[submodule "DOVER"]
+	path = DOVER
+	url = https://github.com/VQAssessment/DOVER.git
