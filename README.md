@@ -1,5 +1,4 @@
-# DOVER-VQA-Mini
-Energy-Efficient DOVER Video Quality Assessment 
+# Energy-Efficient Video Quality Assessment 
 
 # Introduction
 State-of-the-Art Model Comprehension
