@@ -26,13 +26,13 @@ The proposed method reduces DOVER-Mobile model parameters by approximately 79.7%
 
 All experiment runs and detailed analyses can be accessed through the following link:<br />
 
-https://colab.research.google.com/drive/1_ea2g2-zMqMLXuFgAqN3xwYKf7VUPcWZ?usp=sharing
+Explore Experiment Notebook Here - [Enery-Efficient-VQA.ipynb](https://colab.research.google.com/drive/1_ea2g2-zMqMLXuFgAqN3xwYKf7VUPcWZ?usp=sharing)
 
 # Datasets:
 The download links for the videos are as follows:
 
-📖 KoNViD-1k: Official Site<br />
-📖 LIVE-VQC: Official Site
+📖 KoNViD-1k: [Official Site](https://database.mmsp-kn.de/konvid-1k-database.html)<br />
+📖 LIVE-VQC: [Official Site](http://live.ece.utexas.edu/research/LIVEVQC/)
 
 
 # Install:
