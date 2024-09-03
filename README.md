@@ -19,7 +19,9 @@ https://github.com/VQAssessment/DOVER
 
 The proposed method reduces DOVER-Mobile model parameters by approximately 79.7%, FLOPs by 79.7%, latency by 29.9%, and memory usage by 64.9%, all while slightly improving accuracy and the score.
 
- ![Screenshot 2024-08-28 at 01 33 37](https://github.com/user-attachments/assets/253d7e48-c123-44e9-9fc4-ca814067afb4)
+ 
+ <img width="905" alt="Screenshot 2024-09-03 at 00 59 44" src="https://github.com/user-attachments/assets/bc449bb8-343d-4d21-abeb-5397144e2bb6">
+
 
 # Datasets:
 The download links for the videos are as follows:
