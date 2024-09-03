@@ -22,6 +22,11 @@ The proposed method reduces DOVER-Mobile model parameters by approximately 79.7%
  
  <img width="905" alt="Screenshot 2024-09-03 at 00 59 44" src="https://github.com/user-attachments/assets/bc449bb8-343d-4d21-abeb-5397144e2bb6">
 
+# Experiment Notebook
+
+All experiment runs and detailed analyses can be accessed through the following link:<br />
+
+https://colab.research.google.com/drive/1_ea2g2-zMqMLXuFgAqN3xwYKf7VUPcWZ?usp=sharing
 
 # Datasets:
 The download links for the videos are as follows:
